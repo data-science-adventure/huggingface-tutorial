@@ -1,0 +1,60 @@
+
+ipykernel
+# python-dotenv
+python-dotenv==1.1.1
+
+# pdf plumber
+pdfplumber==0.11.7
+
+# pyclean
+pyclean==3.1.0
+
+# pyspellchecker
+pyspellchecker==0.8.3
+
+# Transformer
+transformers[torch]==4.55.4
+torch==2.8.0
+
+# Spacy
+spacy==3.8.7
+
+# Dadataset
+datasets==4.0.0
+
+# Pandas
+pandas==2.3.2 
+
+# Scikit learn
+scikit-learn==1.7.1
+
+# Polars
+polars==1.32.3
+
+# Case converter
+case-converter==1.2.0
+
+# gradio
+gradio==5.44.1
+
+# diffusers
+diffusers==0.35.1
+
+# Jinja2 for templating
+Jinja2==3.1.6
+
+# Google SDK for python
+google-genai
+
+numpy
+PyPDF2
+nltk
+matplotlib 
+seaborn 
+wordcloud 
+textblob 
+gensim 
+scikit-learn
+pyLDAvis
+textacy
+umap-learn
