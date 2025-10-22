@@ -1,0 +1,101 @@
+product,review,sentiment
+Monitor,I absolutely love this Monitor! It's exceeded my expectations.,positive
+Laptop,The Laptop quality is outstanding and performance is top-notch.,positive
+Laptop,"I regret buying this Laptop, complete waste.",negative
+Smartphone,"The Smartphone is okay, nothing special.",neutral
+Monitor,"Average Monitor, does the job but nothing more.",neutral
+Headphones,Worst Headphones I've ever used. Not worth the money.,negative
+Laptop,The Laptop quality is poor and performance is awful.,negative
+Monitor,Best Monitor I've bought in years. Highly recommended.,positive
+Camera,The Camera quality is outstanding and performance is top-notch.,positive
+Router,The Router quality is poor and performance is awful.,negative
+Printer,The Printer quality is poor and performance is awful.,negative
+Monitor,"The Monitor is okay, nothing special.",neutral
+Router,"I regret buying this Router, complete waste.",negative
+Keyboard,"I'm very satisfied with this Keyboard, worth every penny.",positive
+Router,"Terrible Router, it stopped working after a few days.",negative
+Smartphone,Worst Smartphone I've ever used. Not worth the money.,negative
+Smartwatch,"This Smartwatch is fine, meets basic needs.",neutral
+Monitor,"I'm very satisfied with this Monitor, worth every penny.",positive
+Printer,"This Printer is fine, meets basic needs.",neutral
+Smartwatch,"The Smartwatch is okay, nothing special.",neutral
+Router,"This Router works as expected, but not impressive.",neutral
+Monitor,"Terrible Monitor, it stopped working after a few days.",negative
+Router,The Router quality is poor and performance is awful.,negative
+Laptop,"The Laptop is okay, nothing special.",neutral
+Camera,I'm very disappointed with this Camera.,negative
+Tablet,"Average Tablet, does the job but nothing more.",neutral
+Tablet,"Average Tablet, does the job but nothing more.",neutral
+Smartwatch,The Smartwatch quality is outstanding and performance is top-notch.,positive
+Printer,"This Printer works as expected, but not impressive.",neutral
+Router,I absolutely love this Router! It's exceeded my expectations.,positive
+Router,"The Router is okay, nothing special.",neutral
+Router,"This Router works as expected, but not impressive.",neutral
+Printer,"It's just a standard Printer, no complaints.",neutral
+Keyboard,"Terrible Keyboard, it stopped working after a few days.",negative
+Keyboard,"Terrible Keyboard, it stopped working after a few days.",negative
+Tablet,"Average Tablet, does the job but nothing more.",neutral
+Printer,"This Printer is fine, meets basic needs.",neutral
+Camera,"Great Camera, works perfectly and has excellent features.",positive
+Router,The Router quality is poor and performance is awful.,negative
+Keyboard,"I regret buying this Keyboard, complete waste.",negative
+Smartphone,I absolutely love this Smartphone! It's exceeded my expectations.,positive
+Router,I'm very disappointed with this Router.,negative
+Camera,I'm very disappointed with this Camera.,negative
+Laptop,The Laptop quality is outstanding and performance is top-notch.,positive
+Router,"It's just a standard Router, no complaints.",neutral
+Tablet,Best Tablet I've bought in years. Highly recommended.,positive
+Smartphone,The Smartphone quality is outstanding and performance is top-notch.,positive
+Smartphone,"It's just a standard Smartphone, no complaints.",neutral
+Printer,"I regret buying this Printer, complete waste.",negative
+Smartwatch,"Terrible Smartwatch, it stopped working after a few days.",negative
+Smartwatch,"Average Smartwatch, does the job but nothing more.",neutral
+Headphones,"I regret buying this Headphones, complete waste.",negative
+Headphones,"I regret buying this Headphones, complete waste.",negative
+Monitor,"I'm very satisfied with this Monitor, worth every penny.",positive
+Keyboard,I'm very disappointed with this Keyboard.,negative
+Tablet,The Tablet quality is poor and performance is awful.,negative
+Keyboard,Best Keyboard I've bought in years. Highly recommended.,positive
+Smartphone,"I regret buying this Smartphone, complete waste.",negative
+Monitor,"The Monitor is okay, nothing special.",neutral
+Headphones,"The Headphones is okay, nothing special.",neutral
+Laptop,I absolutely love this Laptop! It's exceeded my expectations.,positive
+Tablet,"Average Tablet, does the job but nothing more.",neutral
+Monitor,"The Monitor is okay, nothing special.",neutral
+Headphones,"I regret buying this Headphones, complete waste.",negative
+Headphones,I absolutely love this Headphones! It's exceeded my expectations.,positive
+Keyboard,"This Keyboard works as expected, but not impressive.",neutral
+Laptop,"The Laptop is okay, nothing special.",neutral
+Laptop,I'm very disappointed with this Laptop.,negative
+Router,"I'm very satisfied with this Router, worth every penny.",positive
+Printer,"Terrible Printer, it stopped working after a few days.",negative
+Headphones,"Great Headphones, works perfectly and has excellent features.",positive
+Printer,"The Printer is okay, nothing special.",neutral
+Printer,"This Printer is fine, meets basic needs.",neutral
+Router,"Average Router, does the job but nothing more.",neutral
+Smartphone,Best Smartphone I've bought in years. Highly recommended.,positive
+Smartphone,"It's just a standard Smartphone, no complaints.",neutral
+Smartphone,"I regret buying this Smartphone, complete waste.",negative
+Smartwatch,"I regret buying this Smartwatch, complete waste.",negative
+Printer,"This Printer works as expected, but not impressive.",neutral
+Monitor,I'm very disappointed with this Monitor.,negative
+Keyboard,The Keyboard quality is outstanding and performance is top-notch.,positive
+Monitor,I absolutely love this Monitor! It's exceeded my expectations.,positive
+Headphones,Worst Headphones I've ever used. Not worth the money.,negative
+Monitor,I absolutely love this Monitor! It's exceeded my expectations.,positive
+Keyboard,"I'm very satisfied with this Keyboard, worth every penny.",positive
+Camera,"I'm very satisfied with this Camera, worth every penny.",positive
+Monitor,I absolutely love this Monitor! It's exceeded my expectations.,positive
+Laptop,Worst Laptop I've ever used. Not worth the money.,negative
+Smartphone,"Terrible Smartphone, it stopped working after a few days.",negative
+Tablet,"The Tablet is okay, nothing special.",neutral
+Monitor,"It's just a standard Monitor, no complaints.",neutral
+Tablet,"It's just a standard Tablet, no complaints.",neutral
+Laptop,"I regret buying this Laptop, complete waste.",negative
+Laptop,The Laptop quality is poor and performance is awful.,negative
+Router,"Average Router, does the job but nothing more.",neutral
+Laptop,Worst Laptop I've ever used. Not worth the money.,negative
+Monitor,"Great Monitor, works perfectly and has excellent features.",positive
+Camera,"This Camera is fine, meets basic needs.",neutral
+Printer,The Printer quality is outstanding and performance is top-notch.,positive
+Camera,Worst Camera I've ever used. Not worth the money.,negative

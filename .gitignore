@@ -207,3 +207,6 @@ data/*
 cleaned_texts/*
 
 my_data.csv
+product_review_splits/
+prompt.md
+sentiment_data.csv
