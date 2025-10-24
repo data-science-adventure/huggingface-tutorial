@@ -58,3 +58,4 @@ scikit-learn
 pyLDAvis
 textacy
 umap-learn
+sentence-transformers

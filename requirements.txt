@@ -155,6 +155,7 @@ huggingface-hub==0.35.3
     #   diffusers
     #   gradio
     #   gradio-client
+    #   sentence-transformers
     #   tokenizers
     #   transformers
 idna==3.10
@@ -351,6 +352,7 @@ pillow==11.3.0
     #   gradio
     #   matplotlib
     #   pdfplumber
+    #   sentence-transformers
     #   wordcloud
 platformdirs==4.4.0
     # via jupyter-core
@@ -473,6 +475,7 @@ scikit-learn==1.7.1
     #   -r requirements.in
     #   pyldavis
     #   pynndescent
+    #   sentence-transformers
     #   textacy
     #   umap-learn
 scipy==1.13.1
@@ -481,12 +484,15 @@ scipy==1.13.1
     #   pyldavis
     #   pynndescent
     #   scikit-learn
+    #   sentence-transformers
     #   textacy
     #   umap-learn
 seaborn==0.13.2
     # via -r requirements.in
 semantic-version==2.10.0
     # via gradio
+sentence-transformers==5.1.2
+    # via -r requirements.in
 shellingham==1.5.4
     # via typer
 six==1.17.0
@@ -539,6 +545,7 @@ torch==2.8.0
     # via
     #   -r requirements.in
     #   accelerate
+    #   sentence-transformers
     #   transformers
 tornado==6.5.2
     # via
@@ -549,6 +556,7 @@ tqdm==4.67.1
     #   datasets
     #   huggingface-hub
     #   nltk
+    #   sentence-transformers
     #   spacy
     #   textacy
     #   transformers
@@ -561,7 +569,9 @@ traitlets==5.14.3
     #   jupyter-core
     #   matplotlib-inline
 transformers[torch]==4.55.4
-    # via -r requirements.in
+    # via
+    #   -r requirements.in
+    #   sentence-transformers
 triton==3.4.0
     # via torch
 typer==0.19.2
@@ -580,6 +590,7 @@ typing-extensions==4.15.0
     #   huggingface-hub
     #   pydantic
     #   pydantic-core
+    #   sentence-transformers
     #   starlette
     #   torch
     #   typer
